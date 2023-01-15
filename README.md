@@ -46,8 +46,8 @@ at the edges is weird:
 
 And here are the loss curves:
 
-![flower_graph](https://user-images.githubusercontent.com/93054906/212565086-f24d1813-b106-424f-96d4-d38b53cf034e.PNG)
-![room_graph](https://user-images.githubusercontent.com/93054906/212565089-e4dfde95-99de-4957-9931-de2def49e8f2.PNG)
+<img src="https://user-images.githubusercontent.com/93054906/212565086-f24d1813-b106-424f-96d4-d38b53cf034e.PNG" width="256">
+<img src="https://user-images.githubusercontent.com/93054906/212565089-e4dfde95-99de-4957-9931-de2def49e8f2.PNG" width="256">
 
 
 ## Implementation Details

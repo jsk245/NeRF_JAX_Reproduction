@@ -1,3 +1,4 @@
+![video](https://user-images.githubusercontent.com/93054906/212564586-27b5ec87-bcd0-4e13-af68-af8f1116cf87.gif)
 # NeRF_JAX_Reproduction
 ## Description
 This code reproduces some of the results from the paper "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (https://arxiv.org/abs/2003.08934) 
@@ -42,6 +43,11 @@ at the edges is weird:
 
 ![video](https://user-images.githubusercontent.com/93054906/212563624-bdddd3df-2004-43e2-b825-1ac47f5a240c.gif)
 ![video(1)](https://user-images.githubusercontent.com/93054906/212563631-030d7055-e45b-4e90-8531-a221100f0742.gif)
+
+And here are the loss curves:
+
+![flower_graph](https://user-images.githubusercontent.com/93054906/212565086-f24d1813-b106-424f-96d4-d38b53cf034e.PNG)
+![room_graph](https://user-images.githubusercontent.com/93054906/212565089-e4dfde95-99de-4957-9931-de2def49e8f2.PNG)
 
 
 ## Implementation Details

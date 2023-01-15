@@ -1,0 +1,8 @@
+dm_haiku==0.0.9
+haiku==0.01
+imageio==2.9.0
+jax==0.3.25
+matplotlib==3.2.2
+numpy==1.21.6
+optax==0.1.4
+protobuf==4.21.12
